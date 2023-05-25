@@ -1,0 +1,4 @@
+GPay
+PhonePay
+Credit card
+Debit card
